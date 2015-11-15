@@ -12,7 +12,7 @@ public class DATAArticle {
     public String Description;
     public String HTMLContent;
     public String Tags;
-    public String DateTime;
+    public String DateModified;
 
     public DATAArticle() {
 
